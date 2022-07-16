@@ -74,8 +74,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["94788812611"]
+global.ownername = ["blacky😎"]
 ```
 </details>
 
@@ -99,7 +99,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 |   Convert     |       ✅     |
 |   Database     |       ✅     |
 |   Owner     |       ✅    |
-|   Islami     |       ✅     |
+|   chanux     |       ✅     |
 |   Downloader     |       ✅     |
 |   Webzone     |       ✅[      |
 |   Searching     |       ✅      |
